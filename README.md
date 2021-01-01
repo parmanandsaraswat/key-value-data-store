@@ -16,7 +16,7 @@ This data store is meant to be used as a local storage for one single process on
 # Languages used:
 Python
 # libraries used:
-1. Thread
+1. threading-Thread
 2. json 
 3. sys
 4. os
